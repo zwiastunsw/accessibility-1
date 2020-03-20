@@ -136,13 +136,14 @@ The next one is motor impairment – strightly connected with only-keyboard user
 * [Types of disabilities](http://www.hwns.com.au/Resource-centre/Types-of-disabilities)
 
 ## Footnote
-1 [WHO | Disability and health](https://www.who.int/news-room/fact-sheets/detail/disability-and-health)
-2 [WHO | Disability and health](https://www.who.int/news-room/fact-sheets/detail/disability-and-health)
-3 [World over population disability and health - The Point Newspaper...](http://thepoint.gm/africa/gambia/article/world-over-population-disability-and-health)
-4 [WHO | Disability and health](http://www.whogis.com/mediacentre/factsheets/fs352/en/)
-5 [WHO | Spinal cord injury](https://www.who.int/news-room/fact-sheets/detail/spinal-cord-injury)
-6 [WHO |Depression](https://www.who.int/news-room/fact-sheets/detail/depression)
-7 [WHO | 10 facts on dementia](https://www.who.int/features/factfiles/dementia/en/)
+
+1. [WHO | Disability and health](https://www.who.int/news-room/fact-sheets/detail/disability-and-health)
+2. [WHO | Disability and health](https://www.who.int/news-room/fact-sheets/detail/disability-and-health)
+3. [World over population disability and health - The Point Newspaper...](http://thepoint.gm/africa/gambia/article/world-over-population-disability-and-health)
+4. [WHO | Disability and health](http://www.whogis.com/mediacentre/factsheets/fs352/en/)
+5. [WHO | Spinal cord injury](https://www.who.int/news-room/fact-sheets/detail/spinal-cord-injury)
+6. [WHO |Depression](https://www.who.int/news-room/fact-sheets/detail/depression)
+7. [WHO | 10 facts on dementia](https://www.who.int/features/factfiles/dementia/en/)
 
 
 
